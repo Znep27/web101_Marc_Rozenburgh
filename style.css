@@ -1,12 +1,22 @@
+body {
+    background-color: darksalmon;
+}
 h1 {
-    background-color: purple;
+    background-color: blue;
     color: white;
+    font-family: "Lucida Handwriting";
     padding: 50px;
     margin: 0 auto;
-    width: 200px;
-    border: 10px solid green;
+    width: 300px;
+    border: 10px solid red;
 }
 
-.head {
+h2 {
     background-color: red;
+    color: greenyellow;
+    font-family: "Papyrus";
+    padding: 25px;
+    margin: 0 auto;
+    width: 200px;
+    border: 5px solid black;
 }
